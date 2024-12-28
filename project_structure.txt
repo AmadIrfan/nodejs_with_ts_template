@@ -1,0 +1,15 @@
+NodeJs with Type ScriptTemplate/
+├──src
+|  ├── controller/
+|  ├── middleware/
+|  ├── routes/
+|  ├── utils/
+|  ├── views/
+|  │   ├── index.ejs
+|  ├── public/
+|  │   ├── css/
+|  │   └── js/
+|  ├── index.js
+|  ├── package.json
+|  ├── node_modules/
+|  └── package-lock.json
